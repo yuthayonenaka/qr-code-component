@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [https://github.com/yuthayonenaka/qr-code-component/tree/main](https://github.com/yuthayonenaka/qr-code-component/tree/main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://main--idyllic-gnome-3df03f.netlify.app/](https://main--idyllic-gnome-3df03f.netlify.app/)
 
 ## My process
 
